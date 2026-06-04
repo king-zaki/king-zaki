@@ -1,3 +1,26 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome"/>
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=king-zaki&color=blue"/>
+</div>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript    5 hrs 30 mins         █████████████░░░░░░░░░░░░   52.63 %
+WindCSS       2 hrs 9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+TypeScript    1 hr 41 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Postgres      28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Express       21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+```
+
+<!--END_SECTION:waka-->
+
+
 # 💫 About Me:
 🔭 Currently working on habit tracker<br>👯 I’m looking to collaborate on React native apps<br>🌱 I’m currently learning PostgreSQL
 
@@ -15,8 +38,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakiath1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ## 💰 You can help me by Donating
+  ## 💰 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/onlyzaki) 
+  
+for freelance work? do reach, [email]() :)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
