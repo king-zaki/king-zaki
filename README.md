@@ -28,7 +28,9 @@ Full-stack developer focused on building React Native applications and modern we
 📚 Learning PostgreSQL and backend development<br>
 
 # 🚀 Featured Projects
-
+<!--
+from here
+-->
 ## 📱 Habit Tracker
 
 <p align="center">
@@ -37,17 +39,18 @@ Full-stack developer focused on building React Native applications and modern we
 
 A modern habit tracking application built with React Native and Expo.
 
-🔹 Create and manage habits
-🔹 Track daily progress
-🔹 Beautiful mobile-first UI
+🔹 Create and manage habits<br>
+🔹 Track daily progress<br>
+🔹 Beautiful mobile-first UI<br>
 
-**Stack:** React Native • Expo • PostgreSQL
+🛠️ **Built With:** React Native • Expo • PostgreSQL
 
-⭐ [Repository](YOUR_GITHUB_LINK) | 🚀 [Live Demo](YOUR_DEMO_LINK)
+🔗 **Links:** [📂 Source Code](YOUR_GITHUB_LINK) • [🚀 Live Demo](YOUR_DEMO_LINK)
+
 
 ---
 
-
+<!--to here-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gE2TVbjcyj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/king._zaki) 
