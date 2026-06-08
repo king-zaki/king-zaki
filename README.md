@@ -7,7 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=king-zaki&color=blue"/>
 </div>
 
-📊 **this week i spent my time on:**
+
+# Hi, I'm Zakaria 👋
+
+Full-stack developer focused on building React Native applications and modern web apps.<br>
+🚀 Building mobile apps with React Native + Expo<br>
+⚡ Creating open-source projects<br>
+📚 Learning PostgreSQL and backend development<br>
+
+# 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -20,12 +28,6 @@ Express       21 mins               █░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# Hi, I'm Zakaria 👋
-
-Full-stack developer focused on building React Native applications and modern web apps.<br>
-🚀 Building mobile apps with React Native + Expo<br>
-⚡ Creating open-source projects<br>
-📚 Learning PostgreSQL and backend development<br>
 
 # 🚀 Featured Projects
 <!--
@@ -36,7 +38,7 @@ from here
 <p align="center">
   <img src="1200.jpg" width="800"/>
 </p>
-
+<center>
 A modern habit tracking application built with React Native and Expo.
 
 🔹 Create and manage habits<br>
@@ -47,7 +49,7 @@ A modern habit tracking application built with React Native and Expo.
 
 🔗 **Links:** [📂 Source Code](YOUR_GITHUB_LINK) • [🚀 Live Demo](YOUR_DEMO_LINK)
 
-
+</center>
 ---
 
 <!--to here-->
